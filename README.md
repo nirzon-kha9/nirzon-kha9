@@ -1,16 +1,16 @@
-## Hi there 👋
+# Introduction:
+Im Nirzon khan.Im learnig web development by Anisul islam..My interest learnig web development.My goal is a web developer.
+# skills:
+Html,css,java script.
+# Projects:
+e-commarce web site,bloging web site,
+# Education:
+Im a student at Wali Newaz Khan college in Kishorganj.Im student of honoure third year.
+# Work Experience:
+1 year experience of web development
+# Certifications:
+I have web development certificate.And educational certificate.
+# Contact Information:
+nirzonkha9@gmail.com
 
-<!--
-**nirzon-kha9/nirzon-kha9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
